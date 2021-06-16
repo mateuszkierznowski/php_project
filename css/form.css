@@ -1,0 +1,23 @@
+.form{
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.wynik {
+    text-align: center;
+}
+
+.addMore{
+    border: none;
+    width: 32px;
+    height: 32px;
+    background-color: #eee;
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+  }
+  .addMore:hover{
+    border: 1px solid #888;
+    background-color: #ddd;
+  }
